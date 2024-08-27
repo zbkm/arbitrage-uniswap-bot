@@ -1,0 +1,8 @@
+bun.lockb
+.env
+
+.idea
+cache
+artifacts
+ignition/deployments
+node_modules
